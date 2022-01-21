@@ -1,4 +1,3 @@
-import "./style.css";
 
 // PARAMETERS
 const TOKEN = ""; // GitHub Token `repo_deployments` authorized
